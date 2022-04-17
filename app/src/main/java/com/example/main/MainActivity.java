@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         categoryList.add(new Category(4, "Книги"));
         categoryList.add(new Category(5, "Музыка"));
         categoryList.add(new Category(6, "Прочее"));
-        categoryList.add(new Category(6, "Прочее"));
+        categoryList.add(new Category(6, "Лисёнок"));
 
 
         // передаем в метод ниже
