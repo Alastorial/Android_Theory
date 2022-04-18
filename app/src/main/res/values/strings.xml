@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Main</string>
+    <string name="app_name">Looking</string>
     <string name="sales_icon">Sales</string>
     <string name="filters_icon">Filter</string>
     <string name="contacts_text">Контакты</string>

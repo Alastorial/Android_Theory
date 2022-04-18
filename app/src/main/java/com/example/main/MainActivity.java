@@ -33,6 +33,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Intent intent = new Intent(this, SearchPage.class);
+        startActivity(intent);
+
         // создаем список с категориями
         List<Category> categoryList = new ArrayList<>();
         categoryList.add(new Category(1, "Игры"));

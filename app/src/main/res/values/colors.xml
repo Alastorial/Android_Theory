@@ -10,4 +10,7 @@
     <color name="mainBgColor">#F6F6F6</color>
     <color name="asideBgColor">#EAEAEA</color>
     <color name="name_of_app">#EC6D6D</color>
+    <color name="head">#262626</color>
+    <color name="borderSearch">#FEB706</color>
+    <color name="search">#171717</color>
 </resources>

@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Main">
         <activity
+            android:name=".FilterItem"
+            android:exported="false" />
+        <activity
+            android:name=".Filter"
+            android:exported="false" />
+        <activity
+            android:name=".SearchPage"
+            android:exported="false" />
+        <activity
             android:name=".OrderPage"
             android:exported="false" />
         <activity
